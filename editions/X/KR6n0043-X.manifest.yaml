@@ -1,0 +1,266 @@
+canonical_identifier: bkk:krp/KR6n0043/X/v1
+canonical_location: https://kanripo.org/bkk/KR6n0043/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 成唯識論俗詮
+  identifiers:
+    krp: KR6n0043
+    cbeta: X50n0820
+    cbeta_old_id: X50n0820
+    authorityid: CA0000459
+    json_key: X0820
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X50/X50n0820.xml
+    old_id: X50n0820
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0043_000-X.yaml, hash: 'sha256:e33c3340a33bcce3ca0f3e5551f28f45d2d6b3fd535cee6be91fce2e29bcbfb4'}
+  - {seq: 1, filename: KR6n0043_001-X.yaml, hash: 'sha256:26ac1e4b7bb76b5d5b3a3ba65c15c8b5f1e8d0c2977c1a78d8abb3d26f57a491'}
+  - {seq: 2, filename: KR6n0043_002-X.yaml, hash: 'sha256:46fad01baeb0858c7191d83d9fea2dc300ee20e9ccb217f556114a95f2f42df3'}
+  - {seq: 3, filename: KR6n0043_003-X.yaml, hash: 'sha256:723462ba4fbb0c7faedd89c886e4a56ce9477905d16fcb7991ce82d8dc0a3470'}
+  - {seq: 4, filename: KR6n0043_004-X.yaml, hash: 'sha256:7181bfe33c7c4fc78292c8b6ed5681318383ca031fc5e15c94b1b3d1a8ad5208'}
+  - {seq: 5, filename: KR6n0043_005-X.yaml, hash: 'sha256:58ba76e81d8596f34b048969b4542d77bc5c22314b1869e2b9e995a0ff2d5181'}
+  - {seq: 6, filename: KR6n0043_006-X.yaml, hash: 'sha256:9e6bfa7a728bd6a377a18639ed12b7e4630987d20c994b67c70312a725fb50bf'}
+  - {seq: 7, filename: KR6n0043_007-X.yaml, hash: 'sha256:fc1089aec3c7c7f8011ea7894caf7eb996aa8803d82aac65cc47179b86297012'}
+  - {seq: 8, filename: KR6n0043_008-X.yaml, hash: 'sha256:b11e86a8a36a623bd1939d2796e6bf6fef14f015fb76a4fcce9af1679f488015'}
+  - {seq: 9, filename: KR6n0043_009-X.yaml, hash: 'sha256:4862dc2eb12057b25fbae486bf7cb7f41ffc0459f437169f6faa16c89075ea51'}
+  - {seq: 10, filename: KR6n0043_010-X.yaml, hash: 'sha256:b424eb69480d424fed59279e04330fc8ab5064046ada56312b86aa3f8cefdb8f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0043_000-X.markers.yaml, hash: 'sha256:243214516f5a8e3baafe55256b3cbc8d01c4a429bf951c28d75acace77198478'}
+  - {seq: 1, role: markers, filename: assets/KR6n0043_001-X.markers.yaml, hash: 'sha256:117433dfe4f4f829695a728ce31e4713751e3451a27a7441b36e7898eb38df0d'}
+  - {seq: 2, role: markers, filename: assets/KR6n0043_002-X.markers.yaml, hash: 'sha256:3d099524ecded16f946340fa116c3842b5eb360717db32d8d8fa44d9afb97ecb'}
+  - {seq: 3, role: markers, filename: assets/KR6n0043_003-X.markers.yaml, hash: 'sha256:d2f572d28470992faa48a62e30253cef9347a328c2c00b39f3044299083e423e'}
+  - {seq: 4, role: markers, filename: assets/KR6n0043_004-X.markers.yaml, hash: 'sha256:f33d4fe21ec058e9557281d3568575156da166a61c7559a1b53d0d5b936f5ae9'}
+  - {seq: 5, role: markers, filename: assets/KR6n0043_005-X.markers.yaml, hash: 'sha256:786b87c4dc7e6f06bdd220f78640a9a73d313919fd3b933e9db464b5cc97eb3f'}
+  - {seq: 6, role: markers, filename: assets/KR6n0043_006-X.markers.yaml, hash: 'sha256:7ad612ea87433df685a1ca18be48d6e5e6f016ddaff596cb3abc4562feab4013'}
+  - {seq: 7, role: markers, filename: assets/KR6n0043_007-X.markers.yaml, hash: 'sha256:6cc48b22307162debf84084c111aa599f909beb3fa3e987da8efcfc46e7c9b4e'}
+  - {seq: 8, role: markers, filename: assets/KR6n0043_008-X.markers.yaml, hash: 'sha256:483f9819a062fb44c64f3a2079f129551e1c03f8359c59adbd91422f27946723'}
+  - {seq: 9, role: markers, filename: assets/KR6n0043_009-X.markers.yaml, hash: 'sha256:2847fc6742bc83d1a339642f4c2cf87abe4d07f41757452c081d34593343cfe8'}
+  - {seq: 10, role: markers, filename: assets/KR6n0043_010-X.markers.yaml, hash: 'sha256:c4edbc4715c18301d746ca1fed44ec3c91688a28507c196866455e559522f9f8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6n0043_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 820-A 成唯識論俗詮序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0043_X_000-mulu-2
+    span:
+    - front
+    - 488
+    - 488
+  label: No. 820-B 成唯識論俗詮序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0043_X_000-mulu-3
+    span:
+    - front
+    - 805
+    - 805
+  label: No. 820-C 成唯識論俗詮序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0043_X_000-mulu-4
+    span:
+    - front
+    - 1101
+    - 1101
+  label: No. 820-D 成唯識論俗詮序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0043_X_000-mulu-5
+    span:
+    - front
+    - 1913
+    - 1913
+  label: No. 820-E 成唯識論俗詮序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0043_X_000-mulu-6
+    span:
+    - front
+    - 2267
+    - 2267
+  label: No. 820-F 成唯識論俗詮序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0043_X_000-mulu-7
+    span:
+    - front
+    - 2722
+    - 2722
+  label: No. 820-G 成唯識論俗詮序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0043_X_000-mulu-8
+    span:
+    - front
+    - 2924
+    - 2924
+  label: No. 820-H 成唯識論俗詮䟦
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0043_X_000-mulu-9
+    span:
+    - front
+    - 3193
+    - 3193
+  label: No. 820-I 法因
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0043_X_000-mulu-10
+    span:
+    - front
+    - 3406
+    - 3406
+  label: No. 820-J 成唯識論俗詮敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0043_X_000-mulu-11
+    span:
+    - front
+    - 4070
+    - 4070
+  label: No. 820-K 成唯識論俗詮科
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0043_X_000-mulu-12
+    span:
+    - front
+    - 7898
+    - 7898
+  label: 成唯識論俗詮
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0043_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 24323
+  label: 成唯識論俗詮卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0043_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 17779
+  label: 成唯識論俗詮卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0043_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 15086
+  label: 成唯識論俗詮卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0043_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 17039
+  label: 成唯識論俗詮卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0043_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 16367
+  label: 成唯識論俗詮卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6n0043_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 17511
+  label: 成唯識論俗詮卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0043_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 19759
+  label: 成唯識論俗詮卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0043_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 19580
+  label: 成唯識論俗詮卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0043_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 19840
+  label: 成唯識論俗詮卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0043_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 15035
+  label: 成唯識論俗詮卷第十
+  type: juan
+  level: 1
+hash: sha256:67e73004e0179847f2bc2fa98b62b6515e5a64286e7bcba9b83fb35c6a63a50c
