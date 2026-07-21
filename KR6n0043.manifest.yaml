@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6n0043_000.yaml, hash: 'sha256:32d5c6b21091218389962a86e56ebe388a8efdfc80c3f9b695f2b0f326c46406'}
+  - {seq: 0, filename: KR6n0043_000.yaml, hash: 'sha256:fd3f3293cf5f611eff01851701a37838951f3040cad17cba6766bc3f9b9839ff'}
   - {seq: 1, filename: KR6n0043_001.yaml, hash: 'sha256:36826c4c8954395e3fc42109b218a2a622afa4ca3882e981a208dfceaeec0c73'}
   - {seq: 2, filename: KR6n0043_002.yaml, hash: 'sha256:e6866da2a6cc53fa1b4cb7eec34d45aaf0f96619cd15e190227aa0af11e59948'}
   - {seq: 3, filename: KR6n0043_003.yaml, hash: 'sha256:77c57c568152e6b7d3d1474071bacdb0e2deb4603fe1e7f17f02092f96cccb76'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 9, filename: KR6n0043_009.yaml, hash: 'sha256:a70137b4b409b91014415d0f3052a26539fc2e4c39ac2c7732272df4d96cc4ef'}
   - {seq: 10, filename: KR6n0043_010.yaml, hash: 'sha256:58a0c9e2a95c4c7b3b3f890a6ae0e560f3603a4d060c8f126a018a5109c5bba2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6n0043_000.markers.yaml, hash: 'sha256:5d18eb6995e9826edc6e01573639e6f9ec06c6590c24689f38e17b9fe6766ff6'}
+  - {seq: 0, role: markers, filename: assets/KR6n0043_000.markers.yaml, hash: 'sha256:ed89486a204b83063f1096ad70ff8faf0dd12219a32ac595b10a66ac736e8268'}
   - {seq: 1, role: markers, filename: assets/KR6n0043_001.markers.yaml, hash: 'sha256:dcf0b99d60d144d678aa9e30def1bd62221a84841a960fc776c2defcbc3008d2'}
   - {seq: 2, role: markers, filename: assets/KR6n0043_002.markers.yaml, hash: 'sha256:fcdd886f51a672f50e86ca7ff4f03ee19a06bfdf58532912afb39d1fc64b64e3'}
   - {seq: 3, role: markers, filename: assets/KR6n0043_003.markers.yaml, hash: 'sha256:6d1775f7673d29b46d5dbff0178ce64d1ecaf55ab79e319fd99e1a29d2213ec3'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0043_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 820-A 成唯識論俗詮序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0043_X_000-mulu-2
     span:
-    - front
+    - body
     - 488
     - 488
   label: No. 820-B 成唯識論俗詮序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0043_X_000-mulu-3
     span:
-    - front
+    - body
     - 805
     - 805
   label: No. 820-C 成唯識論俗詮序
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0043_X_000-mulu-4
     span:
-    - front
+    - body
     - 1101
     - 1101
   label: No. 820-D 成唯識論俗詮序
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0043_X_000-mulu-5
     span:
-    - front
+    - body
     - 1913
     - 1913
   label: No. 820-E 成唯識論俗詮序
@@ -99,7 +99,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0043_X_000-mulu-6
     span:
-    - front
+    - body
     - 2267
     - 2267
   label: No. 820-F 成唯識論俗詮序
@@ -109,7 +109,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0043_X_000-mulu-7
     span:
-    - front
+    - body
     - 2722
     - 2722
   label: No. 820-G 成唯識論俗詮序
@@ -119,7 +119,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0043_X_000-mulu-8
     span:
-    - front
+    - body
     - 2924
     - 2924
   label: No. 820-H 成唯識論俗詮䟦
@@ -129,7 +129,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0043_X_000-mulu-9
     span:
-    - front
+    - body
     - 3193
     - 3193
   label: No. 820-I 法因
@@ -139,7 +139,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0043_X_000-mulu-10
     span:
-    - front
+    - body
     - 3406
     - 3406
   label: No. 820-J 成唯識論俗詮敘
@@ -149,7 +149,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0043_X_000-mulu-11
     span:
-    - front
+    - body
     - 4070
     - 4070
   label: No. 820-K 成唯識論俗詮科
@@ -159,7 +159,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0043_X_000-mulu-12
     span:
-    - front
+    - body
     - 7898
     - 7898
   label: 成唯識論俗詮
@@ -265,7 +265,7 @@ table_of_contents:
   label: 成唯識論俗詮卷第十
   type: juan
   level: 1
-hash: sha256:58b3f48d3d41bae8aa9db7699af8e5d68a2a939255ea3713ac6b9416208344bb
+hash: sha256:62e7edb708cba6860a44718aa41fff79d4c4957c1cf138dcf9e383dd3ed57fb7
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
